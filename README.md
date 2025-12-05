@@ -1,6 +1,3 @@
-Here's a comprehensive README.md for your YouTube Downloader project:
-
-```markdown
 # YouTube Downloader with yt-dlp
 
 A browser extension that adds a download button to YouTube pages, sending download requests to a local yt-dlp server.
