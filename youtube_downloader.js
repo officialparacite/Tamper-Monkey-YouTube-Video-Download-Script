@@ -33,6 +33,14 @@
           padding-left: 20px;
           cursor: pointer;
           border-radius: 20px;
+          appearance: none;
+          -webkit-appearance: none;
+          -moz-appearance: none;
+          background-image: url('data:image/svg+xml;utf8,<svg fill="white" height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M7 10l5 5 5-5z"/></svg>');
+          background-repeat: no-repeat;
+          background-position: right 12px center;
+          background-size: 14px;
+          padding-right: 40px;
         }
         #ytCustomDownloadSelect:hover {
           border-color: #888;
